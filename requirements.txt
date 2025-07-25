@@ -1,0 +1,14 @@
+streamlit==1.25.0
+geocoder
+matplotlib
+pandas
+tensorflow
+streamlit-option-menu
+ultralytics>=8.0.35
+opencv-python-headless
+pillow==10.2.0
+
+
+
+
+
