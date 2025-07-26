@@ -5,6 +5,8 @@ scikit-learn
 torch
 joblib
 geocoder
+matplotlib
+
 
 
 
