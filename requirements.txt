@@ -1,12 +1,10 @@
-streamlit==1.25.0
-geocoder
-matplotlib
+streamlit
+numpy
 pandas
-tensorflow
-streamlit-option-menu
-ultralytics>=8.0.35
-opencv-python-headless
-pillow==10.2.0
+scikit-learn
+torch
+joblib
+
 
 
 
