@@ -6,6 +6,7 @@ torch
 joblib
 geocoder
 matplotlib
+tensorflow
 
 
 
