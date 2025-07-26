@@ -6,7 +6,7 @@ torch
 joblib
 geocoder
 matplotlib
-tensorflow==25.1.1
+tensorflow==2.13.0
 streamlit-option-menu
 ultralytics
 opencv-python-headless
